@@ -8,7 +8,7 @@ env:
 
 font:
   normal:
-    family: Roboto Mono
+    family: Roboto Mono 
     style: Regular
   bold:
     family: Roboto Mono
@@ -23,27 +23,27 @@ font:
 
 colors:
   primary:
-    background: '#221f20'
-    foreground: '#FFFAEE'
+    background: '#222222'
+    foreground: '#f2ecff'
   cursor:
     text: CellBackground
     cursor: CellForeground
   normal:
     black:    '#292d3e'
     red:      '#f07178'
-    green:    '#6EAD91'
+    green:    '#c3e88d'
     yellow:   '#ffcb6b'
-    blue:     '#62B5F1'
-    magenta:  '#EEA4FF'
+    blue:     '#82aaff'
+    magenta:  '#c792ea'
     cyan:     '#89ddff'
     white:    '#d0d0d0'
   bright:
     black:      '#434758'
     red:        '#ff8b92'
-    green:      '#90E3BE'
+    green:      '#ddffa7'
     yellow:     '#ffe585'
-    blue:       '#83CBFF'
-    magenta:    '#FD99FF'
+    blue:       '#9cc4ff'
+    magenta:    '#e1acff'
     cyan:       '#a3f7ff'
     white:      '#ffffff'
 
